@@ -1,0 +1,1 @@
+stramlit run app.py
